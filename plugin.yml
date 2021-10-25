@@ -1,0 +1,8 @@
+main: com.padfoot.firstplugin.Main
+name: HealMeDaddy
+description: The Finest Daddy Healing Plugin Around! 
+version: 1.0
+commands:
+  healmedaddy:
+    aliases: [daddy]
+    description: Heals you
